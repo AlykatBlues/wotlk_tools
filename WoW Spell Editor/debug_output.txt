@@ -1,0 +1,279 @@
+[03:02:29.5697|INFO|SpellEditor.MainWindow] ######################################################
+[03:02:29.5940|INFO|SpellEditor.MainWindow] Starting WoW Spell Editor - 5/7/2025 3:02:29 AM
+[03:02:29.5940|INFO|SpellEditor.MainWindow] ######################################################
+[03:02:33.0843|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\Achievement.txt with 62 fields.
+[03:02:33.0843|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\Achievement_Category.txt with 20 fields.
+[03:02:33.0843|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\Achievement_Criteria.txt with 31 fields.
+[03:02:33.1023|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\AnimationData.txt with 8 fields.
+[03:02:33.1023|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\AreaGroup.txt with 8 fields.
+[03:02:33.1023|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\AreaTable.txt with 36 fields.
+[03:02:33.1188|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\AreaTrigger.txt with 10 fields.
+[03:02:33.1188|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\CharStartOutfit.txt with 77 fields.
+[03:02:33.1188|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\CharTitles.txt with 37 fields.
+[03:02:33.1369|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\ChatChannels.txt with 37 fields.
+[03:02:33.1369|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\ChrClasses.txt with 60 fields.
+[03:02:33.1504|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\ChrRaces.txt with 69 fields.
+[03:02:33.1504|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\CinematicCamera.txt with 7 fields.
+[03:02:33.1624|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\CinematicSequences.txt with 10 fields.
+[03:02:33.1624|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\CreatureDisplayInfo.txt with 16 fields.
+[03:02:33.1624|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\CreatureDisplayInfoExtra.txt with 21 fields.
+[03:02:33.1799|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\CreatureModelData.txt with 28 fields.
+[03:02:33.1799|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\CreatureSoundData.txt with 38 fields.
+[03:02:33.1941|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\CurrencyCategory.txt with 19 fields.
+[03:02:33.1941|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\CurrencyTypes.txt with 4 fields.
+[03:02:33.2092|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\DungeonEncounter.txt with 23 fields.
+[03:02:33.2092|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\Faction.txt with 57 fields.
+[03:02:33.2092|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\FactionGroup.txt with 20 fields.
+[03:02:33.2278|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\FactionTemplate.txt with 14 fields.
+[03:02:33.2278|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\FileData.txt with 3 fields.
+[03:02:33.2404|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\GameObjectDisplayInfo.txt with 19 fields.
+[03:02:33.2404|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\GameTips.txt with 18 fields.
+[03:02:33.2404|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\GemProperties.txt with 5 fields.
+[03:02:33.2599|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\HolidayDescriptions.txt with 18 fields.
+[03:02:33.2599|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\HolidayNames.txt with 18 fields.
+[03:02:33.2745|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\Holidays.txt with 55 fields.
+[03:02:33.2745|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\Item.txt with 8 fields.
+[03:02:33.2745|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\ItemClass.txt with 20 fields.
+[03:02:33.2907|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\ItemDisplayInfo.txt with 25 fields.
+[03:02:33.2907|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\ItemExtendedCost.txt with 16 fields.
+[03:02:33.2907|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\ItemSet.txt with 53 fields.
+[03:02:33.3101|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\ItemSubClass.txt with 44 fields.
+[03:02:33.3101|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\LFGDungeonGroup.txt with 21 fields.
+[03:02:33.3256|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\LFGDungeons.txt with 49 fields.
+[03:02:33.3256|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\Light.txt with 15 fields.
+[03:02:33.3381|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\LightFloatBand.txt with 34 fields.
+[03:02:33.3381|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\LightIntBand.txt with 34 fields.
+[03:02:33.3381|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\LightParams.txt with 9 fields.
+[03:02:33.3527|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\LightSkybox.txt with 3 fields.
+[03:02:33.3527|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\LoadingScreens.txt with 4 fields.
+[03:02:33.3527|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\Lock.txt with 33 fields.
+[03:02:33.3683|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\LockType.txt with 53 fields.
+[03:02:33.3683|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\Map.txt with 66 fields.
+[03:02:33.3683|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\MapDifficulty.txt with 23 fields.
+[03:02:33.3852|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\Movie.txt with 3 fields.
+[03:02:33.3852|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\MovieFileData.txt with 2 fields.
+[03:02:33.3852|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\MovieVariation.txt with 3 fields.
+[03:02:33.4009|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\OverrideSpellData.txt with 12 fields.
+[03:02:33.4009|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\QuestSort.txt with 18 fields.
+[03:02:33.4009|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\ScreenEffect.txt with 10 fields.
+[03:02:33.4174|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\SkillLine.txt with 56 fields.
+[03:02:33.4174|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\SkillLineAbility.txt with 14 fields.
+[03:02:33.4174|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\SkillRaceClassInfo.txt with 8 fields.
+[03:02:33.4333|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\SoundEntries.txt with 30 fields.
+[03:02:33.4333|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\Spell.txt with 234 fields.
+[03:02:33.4450|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\SpellCastTimes.txt with 4 fields.
+[03:02:33.4450|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\SpellCategory.txt with 2 fields.
+[03:02:33.4450|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\SpellDescriptionVariables.txt with 2 fields.
+[03:02:33.4591|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\SpellDifficulty.txt with 5 fields.
+[03:02:33.4591|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\SpellDispelType.txt with 21 fields.
+[03:02:33.4591|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\SpellDuration.txt with 4 fields.
+[03:02:33.4761|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\SpellFocusObject.txt with 18 fields.
+[03:02:33.4761|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\SpellIcon.txt with 2 fields.
+[03:02:33.4761|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\SpellItemEnchantment.txt with 38 fields.
+[03:02:33.4918|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\SpellMechanic.txt with 18 fields.
+[03:02:33.4918|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\SpellMissile.txt with 15 fields.
+[03:02:33.4918|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\SpellMissileMotion.txt with 5 fields.
+[03:02:33.5101|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\SpellRadius.txt with 4 fields.
+[03:02:33.5101|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\SpellRange.txt with 40 fields.
+[03:02:33.5101|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\SpellRuneCost.txt with 5 fields.
+[03:02:33.5268|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\SpellShapeshiftForm.txt with 35 fields.
+[03:02:33.5268|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\SpellVisual.txt with 32 fields.
+[03:02:33.5371|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\SpellVisualEffectName.txt with 7 fields.
+[03:02:33.5371|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\SpellVisualKit.txt with 38 fields.
+[03:02:33.5371|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\SpellVisualKitAreaModel.txt with 3 fields.
+[03:02:33.5371|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\SpellVisualKitModelAttach.txt with 10 fields.
+[03:02:33.5569|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\SpellVisualPrecastTransitions.txt with 3 fields.
+[03:02:33.5569|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\Stationery.txt with 4 fields.
+[03:02:33.5569|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\Talent.txt with 23 fields.
+[03:02:33.5732|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\TalentTab.txt with 24 fields.
+[03:02:33.5732|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\TaxiNodes.txt with 24 fields.
+[03:02:33.5732|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\TaxiPath.txt with 4 fields.
+[03:02:33.5872|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\TaxiPathNode.txt with 11 fields.
+[03:02:33.5872|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\TotemCategory.txt with 20 fields.
+[03:02:33.5872|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\Vehicle.txt with 40 fields.
+[03:02:33.6053|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\VehicleSeat.txt with 58 fields.
+[03:02:33.6053|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\WMOAreaTable.txt with 28 fields.
+[03:02:33.6182|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\WorldStateUI.txt with 63 fields.
+[03:02:33.6182|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded binding C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk\ZoneMusic.txt with 8 fields.
+[03:02:33.6182|INFO|SpellEditor.Sources.Binding.BindingManager] Loaded 94 bindings.
+[03:02:33.6358|INFO|SpellEditor.Sources.DBC.AbstractDBC] Loaded SpellCategory.dbc into memory in 10ms.
+	Header: 1ms
+	Records: 7ms
+	Strings: 2ms
+[03:02:33.6358|INFO|SpellEditor.Sources.DBC.AbstractDBC] Loaded TotemCategory.dbc into memory in 10ms.
+	Header: 1ms
+	Records: 6ms
+	Strings: 3ms
+[03:02:33.6358|INFO|SpellEditor.Sources.DBC.AbstractDBC] Loaded SpellRadius.dbc into memory in 9ms.
+	Header: 1ms
+	Records: 6ms
+	Strings: 2ms
+[03:02:33.6358|INFO|SpellEditor.Sources.DBC.AbstractDBC] Loaded SpellDuration.dbc into memory in 10ms.
+	Header: 1ms
+	Records: 7ms
+	Strings: 2ms
+[03:02:33.6358|INFO|SpellEditor.Sources.DBC.AbstractDBC] Loaded SpellDifficulty.dbc into memory in 0ms.
+	Header: 0ms
+	Records: 0ms
+	Strings: 0ms
+[03:02:33.6358|INFO|SpellEditor.Sources.DBC.AbstractDBC] Loaded AnimationData.dbc into memory in 15ms.
+	Header: 9ms
+	Records: 0ms
+	Strings: 6ms
+[03:02:33.6358|INFO|SpellEditor.Sources.DBC.AbstractDBC] Loaded SpellMechanic.dbc into memory in 15ms.
+	Header: 9ms
+	Records: 0ms
+	Strings: 6ms
+[03:02:33.6358|INFO|SpellEditor.Sources.DBC.AbstractDBC] Loaded SpellDispelType.dbc into memory in 15ms.
+	Header: 9ms
+	Records: 0ms
+	Strings: 6ms
+[03:02:33.6358|INFO|SpellEditor.Sources.DBC.AbstractDBC] Loaded SpellFocusObject.dbc into memory in 15ms.
+	Header: 1ms
+	Records: 7ms
+	Strings: 7ms
+[03:02:33.6358|INFO|SpellEditor.Sources.DBC.AbstractDBC] Loaded SpellRuneCost.dbc into memory in 14ms.
+	Header: 1ms
+	Records: 6ms
+	Strings: 7ms
+[03:02:33.6358|INFO|SpellEditor.Sources.DBC.AbstractDBC] Loaded ItemSubClass.dbc into memory in 15ms.
+	Header: 9ms
+	Records: 0ms
+	Strings: 6ms
+[03:02:33.6358|INFO|SpellEditor.Sources.DBC.AbstractDBC] Loaded SpellCastTimes.dbc into memory in 15ms.
+	Header: 1ms
+	Records: 7ms
+	Strings: 7ms
+[03:02:33.6358|INFO|SpellEditor.Sources.DBC.AbstractDBC] Loaded SpellRange.dbc into memory in 15ms.
+	Header: 1ms
+	Records: 7ms
+	Strings: 7ms
+[03:02:33.6358|INFO|SpellEditor.Sources.DBC.AbstractDBC] Loaded AreaTable.dbc into memory in 18ms.
+	Header: 1ms
+	Records: 15ms
+	Strings: 2ms
+[03:02:33.6358|INFO|SpellEditor.Sources.DBC.AbstractDBC] Loaded ItemClass.dbc into memory in 15ms.
+	Header: 9ms
+	Records: 0ms
+	Strings: 6ms
+[03:02:33.6476|INFO|SpellEditor.Sources.DBC.AbstractDBC] Loaded SpellDescriptionVariables.dbc into memory in 9ms.
+	Header: 9ms
+	Records: 0ms
+	Strings: 0ms
+[03:02:33.6650|INFO|SpellEditor.Sources.DBC.AbstractDBC] Loaded SpellIcon.dbc into memory in 21ms.
+	Header: 7ms
+	Records: 6ms
+	Strings: 8ms
+[03:02:33.6797|INFO|SpellEditor.Sources.DBC.AbstractDBC] Loaded AreaGroup.dbc into memory in 0ms.
+	Header: 0ms
+	Records: 0ms
+	Strings: 0ms
+[03:02:33.7266|DEBUG|SpellEditor.Sources.DBC.SpellDifficulty] Loading SpellDifficulty tooltips lazily
+[03:02:33.9747|DEBUG|SpellEditor.Sources.DBC.SpellDifficulty] Loaded 25 / 582 difficulty tooltips
+[03:02:34.0059|DEBUG|SpellEditor.Sources.DBC.SpellDifficulty] Loaded 50 / 582 difficulty tooltips
+[03:02:34.0531|DEBUG|SpellEditor.Sources.DBC.SpellDifficulty] Loaded 75 / 582 difficulty tooltips
+[03:02:34.1002|DEBUG|SpellEditor.Sources.DBC.SpellDifficulty] Loaded 100 / 582 difficulty tooltips
+[03:02:34.1470|DEBUG|SpellEditor.Sources.DBC.SpellDifficulty] Loaded 125 / 582 difficulty tooltips
+[03:02:34.1939|DEBUG|SpellEditor.Sources.DBC.SpellDifficulty] Loaded 150 / 582 difficulty tooltips
+[03:02:34.2411|DEBUG|SpellEditor.Sources.DBC.SpellDifficulty] Loaded 175 / 582 difficulty tooltips
+[03:02:34.2873|DEBUG|SpellEditor.Sources.DBC.SpellDifficulty] Loaded 200 / 582 difficulty tooltips
+[03:02:34.3198|DEBUG|SpellEditor.Sources.DBC.SpellDifficulty] Loaded 225 / 582 difficulty tooltips
+[03:02:34.3558|INFO|SpellEditor.Sources.Controls.SpellSelectionList] Worker progress change event took 6ms to handle
+[03:02:34.5925|DEBUG|SpellEditor.Sources.DBC.SpellDifficulty] Loaded 250 / 582 difficulty tooltips
+[03:02:34.6633|INFO|SpellEditor.Sources.Controls.SpellSelectionList] Worker progress change event took 143ms to handle
+[03:02:34.7753|INFO|SpellEditor.Sources.Controls.SpellSelectionList] Worker progress change event took 111ms to handle
+[03:02:34.9049|INFO|SpellEditor.Sources.Controls.SpellSelectionList] Worker progress change event took 129ms to handle
+[03:02:35.0471|INFO|SpellEditor.Sources.Controls.SpellSelectionList] Worker progress change event took 141ms to handle
+[03:02:35.1602|INFO|SpellEditor.Sources.Controls.SpellSelectionList] Worker progress change event took 112ms to handle
+[03:02:35.2438|DEBUG|SpellEditor.Sources.DBC.SpellDifficulty] Loaded 275 / 582 difficulty tooltips
+[03:02:35.2717|INFO|SpellEditor.Sources.Controls.SpellSelectionList] Worker progress change event took 114ms to handle
+[03:02:35.2882|DEBUG|SpellEditor.Sources.DBC.SpellDifficulty] Loaded 300 / 582 difficulty tooltips
+[03:02:35.3496|DEBUG|SpellEditor.Sources.DBC.SpellDifficulty] Loaded 325 / 582 difficulty tooltips
+[03:02:35.3811|INFO|SpellEditor.Sources.Controls.SpellSelectionList] Worker progress change event took 111ms to handle
+[03:02:35.4123|DEBUG|SpellEditor.Sources.DBC.SpellDifficulty] Loaded 350 / 582 difficulty tooltips
+[03:02:35.4756|DEBUG|SpellEditor.Sources.DBC.SpellDifficulty] Loaded 375 / 582 difficulty tooltips
+[03:02:35.5062|INFO|SpellEditor.Sources.Controls.SpellSelectionList] Worker progress change event took 124ms to handle
+[03:02:35.5372|DEBUG|SpellEditor.Sources.DBC.SpellDifficulty] Loaded 400 / 582 difficulty tooltips
+[03:02:35.6005|DEBUG|SpellEditor.Sources.DBC.SpellDifficulty] Loaded 425 / 582 difficulty tooltips
+[03:02:35.6311|INFO|SpellEditor.Sources.Controls.SpellSelectionList] Worker progress change event took 120ms to handle
+[03:02:35.6472|DEBUG|SpellEditor.Sources.DBC.SpellDifficulty] Loaded 450 / 582 difficulty tooltips
+[03:02:35.7092|DEBUG|SpellEditor.Sources.DBC.SpellDifficulty] Loaded 475 / 582 difficulty tooltips
+[03:02:35.7881|DEBUG|SpellEditor.Sources.DBC.SpellDifficulty] Loaded 500 / 582 difficulty tooltips
+[03:02:35.8030|INFO|SpellEditor.Sources.Controls.SpellSelectionList] Worker progress change event took 170ms to handle
+[03:02:35.8030|INFO|SpellEditor.Sources.Controls.SpellSelectionList] Loaded spell selection list contents in 1465ms
+[03:02:35.8665|DEBUG|SpellEditor.Sources.DBC.SpellDifficulty] Loaded 525 / 582 difficulty tooltips
+[03:02:35.9125|DEBUG|SpellEditor.Sources.DBC.SpellDifficulty] Loaded 550 / 582 difficulty tooltips
+[03:02:35.9597|DEBUG|SpellEditor.Sources.DBC.SpellDifficulty] Loaded 575 / 582 difficulty tooltips
+[03:02:35.9597|DEBUG|SpellEditor.Sources.DBC.SpellDifficulty] SpellDifficulty Tooltips finished loading in 2236ms
+[03:02:41.5401|DEBUG|SpellEditor.MainWindow] [Spell Load] Querying MySQL data...
+[03:02:41.5401|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating text control's...
+[03:02:41.5543|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating category & dispel & mechanic...
+[03:02:41.5543|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating attributes...
+[03:02:41.5543|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating stances...
+[03:02:41.5543|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating targets...
+[03:02:41.5543|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating spell focus object selection...
+[03:02:41.5543|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating caster aura state...
+[03:02:41.5543|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating cast time selection...
+[03:02:41.5688|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating other stuff...
+[03:02:41.5688|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating spell range selection...
+[03:02:41.5688|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating speed, stacks, totems, reagents...
+[03:02:41.5688|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating item class selection...
+[03:02:41.5688|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating item subclass mask...
+[03:02:41.5688|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating inventory type...
+[03:02:41.5688|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating effects 1-3...
+[03:02:41.5688|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating radius index...
+[03:02:41.5688|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating effect 1-3 data...
+[03:02:41.5870|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating totem categories & load area groups...
+[03:02:41.5870|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating school mask...
+[03:02:41.5870|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating rune costs...
+[03:02:41.5870|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating spell missile & effect bonus multiplier...
+[03:02:41.5870|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating spell description variables & difficulty selection...
+[03:03:09.8491|DEBUG|SpellEditor.MainWindow] [Spell Load] Querying MySQL data...
+[03:03:09.8513|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating text control's...
+[03:03:09.8513|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating category & dispel & mechanic...
+[03:03:09.8513|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating attributes...
+[03:03:09.8513|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating stances...
+[03:03:09.8513|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating targets...
+[03:03:09.8513|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating spell focus object selection...
+[03:03:09.8513|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating caster aura state...
+[03:03:09.8513|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating cast time selection...
+[03:03:09.8513|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating other stuff...
+[03:03:09.8513|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating spell range selection...
+[03:03:09.8513|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating speed, stacks, totems, reagents...
+[03:03:09.8513|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating item class selection...
+[03:03:09.8513|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating item subclass mask...
+[03:03:09.8513|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating inventory type...
+[03:03:09.8513|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating effects 1-3...
+[03:03:09.8513|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating radius index...
+[03:03:09.8513|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating effect 1-3 data...
+[03:03:09.8657|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating totem categories & load area groups...
+[03:03:09.8657|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating school mask...
+[03:03:09.8657|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating rune costs...
+[03:03:09.8657|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating spell missile & effect bonus multiplier...
+[03:03:09.8657|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating spell description variables & difficulty selection...
+[03:03:27.1610|DEBUG|SpellEditor.MainWindow] [Spell Load] Querying MySQL data...
+[03:03:27.1631|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating text control's...
+[03:03:27.1631|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating category & dispel & mechanic...
+[03:03:27.1631|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating attributes...
+[03:03:27.1631|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating stances...
+[03:03:27.1631|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating targets...
+[03:03:27.1631|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating spell focus object selection...
+[03:03:27.1631|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating caster aura state...
+[03:03:27.1631|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating cast time selection...
+[03:03:27.1631|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating other stuff...
+[03:03:27.1631|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating spell range selection...
+[03:03:27.1631|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating speed, stacks, totems, reagents...
+[03:03:27.1631|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating item class selection...
+[03:03:27.1631|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating item subclass mask...
+[03:03:27.1631|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating inventory type...
+[03:03:27.1631|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating effects 1-3...
+[03:03:27.1631|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating radius index...
+[03:03:27.1631|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating effect 1-3 data...
+[03:03:27.1631|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating totem categories & load area groups...
+[03:03:27.1631|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating school mask...
+[03:03:27.1784|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating rune costs...
+[03:03:27.1784|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating spell missile & effect bonus multiplier...
+[03:03:27.1784|DEBUG|SpellEditor.MainWindow] [Spell Load] Updating spell description variables & difficulty selection...
+[03:03:59.2296|INFO|SpellEditor.App] ######################################################
+[03:03:59.2296|INFO|SpellEditor.App] Stopped WoW Spell Editor - 5/7/2025 3:03:59 AM
+[03:03:59.2296|INFO|SpellEditor.App] ######################################################

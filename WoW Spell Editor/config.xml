@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SpellEditor>
+  <SQLite>
+    <DatabaseFileName>SpellEditor</DatabaseFileName>
+  </SQLite>
+  <Language>enUS</Language>
+  <BindingsDirectory>C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\Bindings_335_wotlk</BindingsDirectory>
+  <DbcDirectory>C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\TrinityCore\Build\bin\Release\data\dbc</DbcDirectory>
+  <WoWVersion>3.3.5a 12340</WoWVersion>
+  <SqlMapperDirectory>C:\Users\alyka\OneDrive\Documents\Alyssa\WoW Classic+\Tools\WoW Spell Editor\SqlMap\AzerothCore</SqlMapperDirectory>
+  <MySQL>
+    <Host>127.0.0.1</Host>
+    <Username>root</Username>
+    <Password>AlyMia76@</Password>
+    <Port>3306</Port>
+    <Database>world</Database>
+  </MySQL>
+  <DefaultMpqName>patch-5</DefaultMpqName>
+</SpellEditor>
